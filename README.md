@@ -1,8 +1,6 @@
 <h1 align="center">💫 Hey, I'm Vedant(vishesh)</h1>
 <h3 align="center">A passionate full stack developer from India(Pune)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantwarhekar" alt="vedantwarhekar" /></a> </p>
-
 - 🔭 I’m currently working on **Enhancing backend architecture with Node.js and Spring Boot, building scalable web applications, and implementing microservices and cloud-based solutions. I’m also leveraging my frontend skills with React, Tailwind CSS, and Material-UI, alongside exploring RPA with UiPath to automate processes.**
 
 - 🌱 I’m currently learning **Advanced Spring Boot, microservices architecture, RPA with UiPath, AI/ML, DevOps practices, Kubernetes, Docker, CI/CD, and cloud platforms like AWS and Azure.**
